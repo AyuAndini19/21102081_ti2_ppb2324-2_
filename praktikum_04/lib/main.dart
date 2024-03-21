@@ -150,7 +150,7 @@ class MyApp extends StatelessWidget {
                         "assets/gambar1.png",
                         width: 50,
                         height: 50,
-                      )
+                      ) 
                     ],
                   ),
                   const SizedBox(
@@ -162,8 +162,8 @@ class MyApp extends StatelessWidget {
                       const Text("Laporkan Masalah"),
                       Image.asset(
                         "assets/gambar2.png",
-                        width: 100,
-                        height: 100,
+                        width: 50,
+                        height: 50,
                       )
                     ],
                   ),
