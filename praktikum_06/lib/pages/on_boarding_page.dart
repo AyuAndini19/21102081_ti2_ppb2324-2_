@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:saving_app/styles/colors.dart';
-import 'package:saving_app/styles/text_style.dart';
+import 'package:praktikum_06/styles/colors.dart';
+import 'package:praktikum_06/styles/text_style.dart';
 
 class OnBoardingPage extends StatelessWidget {
   const OnBoardingPage({Key? key}) : super(key: key);

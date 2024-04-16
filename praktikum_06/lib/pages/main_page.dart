@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:saving_app/styles/colors.dart';
+import 'package:praktikum_06/styles/colors.dart';
 
 import '../styles/text_style.dart';
 
